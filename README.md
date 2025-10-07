@@ -1,3 +1,8 @@
+# 중요
+
+https://github.com/mym0404/react-native-naver-map 으로 migration 진행 (25.10.07)
+
+
 react-native-naver-map [![npm version](https://badge.fury.io/js/react-native-nmap.svg)](https://badge.fury.io/js/react-native-nmap)
 -----
 
